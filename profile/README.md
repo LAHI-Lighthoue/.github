@@ -6,7 +6,7 @@
 
 Lend A Hand India (LAHI) is a nonprofit organization dedicated to enhancing the employability of youth in India through innovative skill development and vocational training programs.
 
-## Our Products
+## Our Works
 
 ### Vocational Training Programs
 LAHI offers a range of vocational training programs tailored to the needs of youth from underserved communities, providing them with essential skills to secure better job opportunities.
